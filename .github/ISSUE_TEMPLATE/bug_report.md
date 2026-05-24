@@ -25,3 +25,9 @@ about: Create a report to help us improve
  - URH version: [e.g. 2.9.8]
  - Python version: [e.g. 3.11]
  - Installed via [e.g. pip]
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

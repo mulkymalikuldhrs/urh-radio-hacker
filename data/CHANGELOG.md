@@ -387,3 +387,9 @@ This release brings a filter button to the Interpretation phase:
 ![bildschirmfoto_2017-05-28_12-29-58](https://cloud.githubusercontent.com/assets/18219846/26528462/a20c36ce-43ac-11e7-815e-0d929aa20cb8.png)
 
 This way, you can smooth your signals right inside URH or unlock the full power of DSP fir filters by defining custom filters through the menu!
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
