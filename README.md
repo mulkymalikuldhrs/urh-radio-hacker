@@ -165,35 +165,12 @@ GitHub: [https://github.com/mulkymalikuldhrs](https://github.com/mulkymalikuldhr
 
 All content, code, and documentation provided in this repository are intended solely for educational and research purposes. Nothing in this repository constitutes financial, investment, legal, or professional advice.
 
-**Risiko apapun tidak kita tanggung.** (We are not responsible for any risks or damages.)
-
 Use at your own risk. The authors and contributors assume no liability for any losses, damages, or consequences arising from the use of this software or information provided herein.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
 
-Copyright © Mulky Malikul Dhaher. All rights reserved.
-
-
----
-
-## Disclaimer
-
-**For Education Purpose Only.** This project is for educational and research purposes only. The author assumes no responsibility for any losses, damages, or consequences arising from the use of this software.
-
-**Hanya untuk Tujuan Pendidikan.** Proyek ini hanya untuk tujuan pendidikan dan penelitian. Risiko apapun tidak kita tanggung.
-
-**仅用于教育目的。** 本项目仅供教育和研究目的。作者对因使用本软件而造成的任何损失不承担责任。
-
----
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## Contact
-
-**Mulky Malikul Dhaher** — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+Copyright © Johannes Pohl and Andreas Noack.
